@@ -10,6 +10,7 @@ public class Main {
             System.out.println("Ты не можешь водить");
         }
         int age = 19;
+        double c =7.3;
 
     }
 }
